@@ -11,7 +11,7 @@ In order to complete this project, I first pseudo coded the task out. I wrote ou
 
 ## Installation
 
--Live Site:
+-Live Site: https://pariselectra.github.io/JavaScript-Window-Edit/
 
 -JavaScript file: https://github.com/pariselectra/JavaScript-Window-Edit/blob/main/script.js
 
