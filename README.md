@@ -13,7 +13,7 @@ In order to complete this project, I first pseudo coded the task out. I wrote ou
 
 -Live Site:
 
--JavaScript file:
+-JavaScript file: https://github.com/pariselectra/JavaScript-Window-Edit/blob/main/script.js
 
 ## Usage
 ![Selector 1](images/Screen%20Shot%202022-09-30%20at%2010.12.12%20PM.png)
@@ -24,6 +24,9 @@ In order to complete this project, I first pseudo coded the task out. I wrote ou
 ![Result](images/Screen%20Shot%202022-09-30%20at%2010.13.09%20PM.png)
 
 ## License
+MIT License
+
+https://github.com/pariselectra/JavaScript-Window-Edit/blob/main/LICENSE
 
 ## Features
 
